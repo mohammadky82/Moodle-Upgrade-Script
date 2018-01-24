@@ -30,7 +30,6 @@ sudo git fetch
 sudo git branch --track MOODLE_34_STABLE origin/MOODLE_34_STABLE
 sudo git checkout MOODLE_34_STABLE
 sudo php admin/cli/upgrade.php --non-interactive
-sudo chown www-data:www-data -R /var/www/moodle/report/coursesize
 echo "";
 echo "********************************************************";
 echo "Purging cached files...";
