@@ -9,7 +9,7 @@ This simple Bash script will upgrade Moodle to the 3.4 stable version along with
    3. Enable PHP7.1 mode the webserver
    4. Starts Aache webserver
 3. Start Moodle upgrade to 3.4 Stable version
-   1.1 Fetch the latest Moodle upgrades from the master GitHub repository
+   1.1. Fetch the latest Moodle upgrades from the master GitHub repository
    2. Track Moodle 3.4 Stable branch
    3. Checkout Moodle 3.4 Stable branch
    4. Start the upgrade process
