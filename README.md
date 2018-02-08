@@ -1,4 +1,4 @@
-# Moodle-Upgrade-Script
+# Moodle Upgrade Bash Script
 This simple Bash script will upgrade Moodle to the 3.4 stable version along with upgrading PHP to PHP7.1
 
 ## Main Phases the script will automate:
