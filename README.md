@@ -4,7 +4,7 @@ This simple Bash script will upgrade Moodle to the 3.4 stable version along with
 ## Main Phases the script will automate:
 1. Activate Moodle Maintenance Mode 
 2. Start the process of upgrading PHP
-   1.1. Stops Apache webserver
+   1-1 Stops Apache webserver
    2. Install PHP 7.1 core and relevant dependencies
    3. Enable PHP7.1 mode the webserver
    4. Starts Aache webserver
