@@ -15,3 +15,13 @@ This simple Bash script will upgrade Moodle to the 3.4 stable version along with
    4. Start the upgrade process
 4. Purge Moodle cache
 5. Disable Moodle Maintenance Mode
+<ol>
+   <li>
+      first item
+      <ol>
+         <li>sub item 1</li>
+         <li>sub item 2</li>
+         <li>sub item 3</li>
+         </ol>
+      </li>
+   </ol>
